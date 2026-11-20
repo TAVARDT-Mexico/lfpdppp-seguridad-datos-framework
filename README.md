@@ -2,7 +2,7 @@
 
 [![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
 [![Diagnóstico TAVARDT](https://img.shields.io/badge/TAVARDT-Herramientas%20T%C3%A9cnicas-5b3cf5.svg)](https://tools.tavardt.com/mx/)
-[![Conformidad LFPDPPP](https://img.shields.io/badge/M%C3%A9xico-LFPDPPP%20INAI-00C853.svg)](https://ag.tavardt.com/mx/cybersecurity/)
+[![Conformidad LFPDPPP](https://img.shields.io/badge/M%C3%A9xico-LFPDPPP%20INAI-00C853.svg)](https://ag.tavardt.com/mx/ciberseguridad/)
 
 Framework técnico de verificación de seguridad, mitigación de riesgos de fuga de información y cumplimiento de las medidas de seguridad de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** y recomendaciones del **INAI** en México.
 
@@ -35,9 +35,9 @@ bash scripts/auditar-lfpdppp.sh --objetivo empresa.mx
 
 Consulte el estado de seguridad de sus aplicaciones en el portal oficial de TAVARDT:
 
-* [Escáner de Credenciales y Archivos Expuestos](https://tools.tavardt.com/mx/exposed-files-scanner/)
-* [Verificador de Cabeceras HTTP de Seguridad](https://tools.tavardt.com/mx/security-headers-check/)
-* [Comprobador DMARC contra Suplantación](https://tools.tavardt.com/mx/dmarc-checker/)
+* [Escáner de Credenciales y Archivos Expuestos](https://tools.tavardt.com/mx/escaneo-archivos-expuestos/)
+* [Verificador de Cabeceras HTTP de Seguridad](https://tools.tavardt.com/mx/analisis-cabeceras-seguridad/)
+* [Comprobador DMARC contra Suplantación](https://tools.tavardt.com/mx/verificador-dmarc-correo/)
 * [Herramientas Técnicas de Ciberseguridad](https://tools.tavardt.com/mx/)
 
-Para asesoría corporativa, remediación de incidentes y consultoría de seguridad de datos en México, contacte con [TAVARDT México](https://ag.tavardt.com/mx/contact/).
+Para asesoría corporativa, remediación de incidentes y consultoría de seguridad de datos en México, contacte con [TAVARDT México](https://ag.tavardt.com/mx/contacto/).
