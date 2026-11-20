@@ -1,0 +1,43 @@
+# Framework de Seguridad de Datos LFPDPPP | TAVARDT México
+
+[![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
+[![Diagnóstico TAVARDT](https://img.shields.io/badge/TAVARDT-Herramientas%20T%C3%A9cnicas-5b3cf5.svg)](https://tools.tavardt.com/mx/)
+[![Conformidad LFPDPPP](https://img.shields.io/badge/M%C3%A9xico-LFPDPPP%20INAI-00C853.svg)](https://ag.tavardt.com/mx/cybersecurity/)
+
+Framework técnico de verificación de seguridad, mitigación de riesgos de fuga de información y cumplimiento de las medidas de seguridad de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** y recomendaciones del **INAI** en México.
+
+Desarrollado y mantenido por el equipo de ciberdefensa de [TAVARDT México](https://ag.tavardt.com/mx/).
+
+---
+
+## 1. Medidas de Seguridad Auditadas
+
+* **Medidas Técnicas de Cifrado:** Comprobación de canales seguros HTTPS, certificados TLS válidos y cabecera HSTS.
+* **Prevención de Exfiltración:** Detección de rutas públicas vulnerables (`.env`, copias de seguridad de bases de datos, credenciales API).
+* **Protección de Correo Electrónico:** Verificación de autenticidad DMARC/SPF para mitigar ataques de phishing y suplantación de marca en México.
+* **Políticas de Privacidad Digital:** Auditoría de rastreo y almacenamiento de cookies sin consentimiento previo.
+
+---
+
+## 2. Inicio Rápido
+
+Descargue y ejecute la herramienta de diagnóstico de seguridad perimetral:
+
+```bash
+git clone https://github.com/TAVARDT-Mexico/lfpdppp-seguridad-datos-framework.git
+cd lfpdppp-seguridad-datos-framework
+bash scripts/auditar-lfpdppp.sh --objetivo empresa.mx
+```
+
+---
+
+## 3. Diagnóstico en Línea Gratuito (México)
+
+Consulte el estado de seguridad de sus aplicaciones en el portal oficial de TAVARDT:
+
+* [Escáner de Credenciales y Archivos Expuestos](https://tools.tavardt.com/mx/exposed-files-scanner/)
+* [Verificador de Cabeceras HTTP de Seguridad](https://tools.tavardt.com/mx/security-headers-check/)
+* [Comprobador DMARC contra Suplantación](https://tools.tavardt.com/mx/dmarc-checker/)
+* [Herramientas Técnicas de Ciberseguridad](https://tools.tavardt.com/mx/)
+
+Para asesoría corporativa, remediación de incidentes y consultoría de seguridad de datos en México, contacte con [TAVARDT México](https://ag.tavardt.com/mx/contact/).
