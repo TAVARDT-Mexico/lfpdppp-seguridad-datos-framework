@@ -1,4 +1,4 @@
-# Framework de Seguridad de Datos LFPDPPP | TAVARDT México
+# Framework de Seguridad de Datos LFPDPPP
 
 [![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
 [![Diagnóstico TAVARDT](https://img.shields.io/badge/TAVARDT-Herramientas%20T%C3%A9cnicas-5b3cf5.svg)](https://tools.tavardt.com/mx/)
@@ -41,3 +41,7 @@ Consulte el estado de seguridad de sus aplicaciones en el portal oficial de TAVA
 * Herramientas Técnicas de Ciberseguridad
 
 Para asesoría corporativa, remediación de incidentes y consultoría de seguridad de datos en México, contacte con **TAVARDT México**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
