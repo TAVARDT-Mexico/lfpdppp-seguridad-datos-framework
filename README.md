@@ -6,7 +6,7 @@
 
 Framework técnico de verificación de seguridad, mitigación de riesgos de fuga de información y cumplimiento de las medidas de seguridad de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** y recomendaciones del **INAI** en México.
 
-Desarrollado y mantenido por el equipo de ciberdefensa de **TAVARDT México**.
+Desarrollado y mantenido por el equipo de ciberdefensa de **TAVARDT**.
 
 ***
 
@@ -40,7 +40,7 @@ Consulte el estado de seguridad de sus aplicaciones en el portal oficial de TAVA
 * [Comprobador DMARC contra Suplantación](https://tools.tavardt.com/mx/verificador-dmarc-correo/)
 * Herramientas Técnicas de Ciberseguridad
 
-Para asesoría corporativa, remediación de incidentes y consultoría de seguridad de datos en México, contacte con **TAVARDT México**.
+Para asesoría corporativa, remediación de incidentes y consultoría de seguridad de datos en México, contacte con **TAVARDT**.
 
 ***
 
