@@ -24,7 +24,7 @@ Desarrollado y mantenido por el equipo de ciberdefensa de **TAVARDT**.
 Descargue y ejecute la herramienta de diagnóstico de seguridad perimetral:
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/lfpdppp-seguridad-datos-framework.git
+git clone https://github.com/TAVARDT/lfpdppp-seguridad-datos-framework.git
 cd lfpdppp-seguridad-datos-framework
 bash scripts/auditar-lfpdppp.sh -objetivo empresa.mx
 ```
