@@ -1,9 +1,8 @@
 # Framework de Seguridad de Datos LFPDPPP
 
-[![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
 [![Diagnóstico TAVARDT](https://img.shields.io/badge/TAVARDT-Herramientas%20T%C3%A9cnicas-5b3cf5.svg)](https://tools.tavardt.com/mx/)
-[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Conformidad LFPDPPP](https://img.shields.io/badge/M%C3%A9xico-LFPDPPP%20INAI-00C853.svg)](https://ag.tavardt.com/mx/ciberseguridad/)
+[![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
 
 Framework técnico de verificación de seguridad, mitigación de riesgos de fuga de información y cumplimiento de las medidas de seguridad de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** y recomendaciones del **INAI** en México.
 
@@ -39,7 +38,6 @@ Consulte el estado de seguridad de sus aplicaciones en el portal oficial de TAVA
 * [Escáner de Credenciales y Archivos Expuestos](https://tools.tavardt.com/mx/escaneo-archivos-expuestos/)
 * [Verificador de Cabeceras HTTP de Seguridad](https://tools.tavardt.com/mx/analisis-cabeceras-seguridad/)
 * [Comprobador DMARC contra Suplantación](https://tools.tavardt.com/mx/verificador-dmarc-correo/)
-* Herramientas Técnicas de Ciberseguridad
 
 Para asesoría corporativa, remediación de incidentes y consultoría de seguridad de datos en México, contacte con **TAVARDT**.
 
