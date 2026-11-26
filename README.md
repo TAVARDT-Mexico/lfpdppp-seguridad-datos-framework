@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/mx/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Framework de Seguridad de Datos LFPDPPP
 
 [![Diagnóstico TAVARDT](https://img.shields.io/badge/TAVARDT-Herramientas%20T%C3%A9cnicas-5b3cf5.svg)](https://tools.tavardt.com/mx/)
